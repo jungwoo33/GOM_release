@@ -14,28 +14,35 @@ Please make sure to have following programs installed on your computer to use th
 To use this program, `git clone` the repo down to your local. Now, you are ready to go!
 
 ## 4. Usage:
-Source codes are already compiled for either Windows or Linux users and provided with objct files. So, you just need to create an executable file with your gfortran compiler (linker). To do so, follow the instruction below: 
-+ Navigate either to `./source_v77/release_Linux` (for a Linux user) or `./source_v77/release_Windows` (for a Windows user).
-+ `makefile` is provided in this folder to link all the pre-compiled object files.
-+ So, now type: `make all` in the terminal, then the linker will link all object files and produce an executable file:
+Source codes are pre-compiled both on Linux and Windows with Gfortran. Note: I am releasing just serially compiled executable now, but the source codes are parallelized with OpenMP.
+
+An executable file for both Windows and Linux are provided in `./release`:
   + `run_release_Linux.exe` - for Linux
   + `run_release_Windows.exe` - for Windows
-+ Copy & paste the executable file to one of the following example folders:
-  + Analytical_test/10_salt_lock_exchange
+
+Also, they are located in each project folders, so just navigate to the one of the following example folders:
+  + Analytical_test/
+    + 10_salt_lock_exchange
   + Project/MB_test/ - Note: this is the Mobile Bay test case.
     + 1_barotropic_test
     + 2_baroclinic_test
-+ Now, type `./run_release_***.exe` in the terminal, then GOM will run and show simulation progress.
-  + Note: the executable file should be located along with `input` and `output` folders, i.e., folder structure should look like:
-    + your_project_folder
-      + input
-      + output
-      + run_release_***.exe
-  + Note: if you are trying to test `MB_test` cases, you should unzip `./input/hurricane.zip` file first. I put this file as a zip file since there is a file uploading limit in GitHub.    
-+ Simulation output files will be located in each example folder's `output` folder.
-+ As you can see in the `input` folder, I initially set the output file format with `VTK` file format. So, you will see several `.vtk` files. 
-+ If you have a `Tecplot` license, try it (you will have faster simulation results with the Tecplot options than with the VTK options).
 
+Note, if you are trying to test `MB_test` cases, you should unzip `./input/hurricane.zip` file first. I put this file as a zip file since there is a file uploading limit in GitHub.    
+
+Now, the folder structure will look like:
+  + your_project_folder
+    + input
+    + output
+    + run_release_***.exe
+
+Now, type `./run_release_***.exe` in the terminal. Then, you will see the simulation progress.
+
+Simulation output files will be located in each example folder's `output` folder.
+  + Note: there is an `etc.txt` file in the `output` folder, and ignore this (I just put this to keep `output` folder in GitHub since GitHub ignore an empty folder)
+
+As you can see in the `input` folder, I initially set the output file format with `VTK` file format. So, you will see several `.vtk` files. 
+
+If you have a `Tecplot` license, try it (you will have faster simulation results with the Tecplot options than with the VTK options).
 
 This project has the following directory structure:
 + ./Analytical_test
@@ -53,11 +60,9 @@ This project has the following directory structure:
       + ./input
       + ./output
       + ./`your executable must be located here`
-+ ./source_v77
-  + ./release_Linux
-    + ./`pre-compiled objects files & makefile are here`
-  + ./release_Windows
-    + ./`pre-compiled objects files & makefile are here`
++ ./release
+  + run_release_Linux.exe
+  + run_release_Windows.exe
 + ./LICENSE: GPL v3 License 
 + ./README.md: readme file
 + ./GOM_Manual_draft_v5.pdf
