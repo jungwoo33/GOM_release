@@ -51,7 +51,8 @@ To setup total number of threads you want to use, type the following commands on
   + for bash shell:
     + `export OMP_NUM_THREADS=#`
 
-Now, type `./run_***.exe` on the terminal. Then, you will see the simulation progress.
+Now, type `./run_***.exe` on the terminal. Then, you will see the simulation progress. Note: you may need to change the file type to `executable`, then it should work:
+  + `chmod ugo=x run_*.*`
 
 Simulation output files will be located in each example folder's `output` folder. Note: there is an `etc.txt` file in the `output` folder, and ignore this (I just put this to keep `output` folder in GitHub since GitHub ignore an empty folder).
 
