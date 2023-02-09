@@ -64,6 +64,8 @@ This project has the following directory structure:
       + ./input
       + ./output
       + ./`your executable must be located here`
+  + ./assets
+    + This folder is nothing related to GOM model but to store the animation results
   + ./Project
     + ./MB_test
       + ./1_barotropic_test
@@ -89,7 +91,11 @@ This project has the following directory structure:
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 6. Application results:
-I will upload some results with animations later.
+Notice: you will have faster simulation results with TecPlot.<br>
+Here is how you can easily check the 2D & 3D output results with ParaView: [Screencastify](https://drive.google.com/file/d/1x3sdVGrJh_wmawIfCdjk8IdT4dNxBq2B/view)<br>
+or the original video file is in: `./assets/3D_output.avi`<br>
+[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./assets/3D_output.png)](https://drive.google.com/file/d/1x3sdVGrJh_wmawIfCdjk8IdT4dNxBq2B/view)<br>
+
 
 ## 8. Questions?:
 If you have any questions, feel free to contact me via information below:<br>
