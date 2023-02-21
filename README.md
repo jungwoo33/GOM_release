@@ -1,5 +1,4 @@
 # README by Jungwoo Lee
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 1. Title: The General Ocean Model (GOM)
 
@@ -87,8 +86,6 @@ This project has the following directory structure:
     + This is the model user's manual.
 
 ## 5. License:
-### The GNU GPLv3 License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## 6. Application results:
 Notice: you will have faster simulation results with TecPlot.<br>
