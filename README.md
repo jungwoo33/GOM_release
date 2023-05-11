@@ -1,4 +1,4 @@
-# README by Jungwoo Lee
+# The General Ocean Model (GOM) - Developed by Jungwoo Lee & Jun Lee
 
 ## 1. Title: The General Ocean Model (GOM)
 
