@@ -2,5 +2,35 @@ Copyright (C) 2023-2025 {Jungwoo Lee} <{jungwoo33@gmail.com}>
 
 This file is part of the {GOM} project.
 
+## GOM License Agreement
+
+This License Agreement ("Agreement") governs the use, modification, and distribution of the General Ocean Model (GOM), developed by Dr. Jungwoo Lee and Dr. Jun Lee ("Original Developers"). By using this Software, you ("User") agree to the terms outlined below.
+1.	Ownership
+  + All intellectual property rights in GOM, including all modifications and updates, are and shall remain the exclusive property of the Original Developers, Dr. Jungwoo Lee and Dr. Jun Lee. All copyrights to the GOM code are reserved.
+2.	Permitted Use and Restrictions
+  + Users are granted permission to use the GOM for personal, academic, or non-commercial purposes.
+  + Users may modify and enhance the GOM under the condition that such modifications are implemented in collaboration with the Original Developers, as outlined in Section 3.
+  + The GOM may be used for commercial applications only with explicit permission from Dr. Jungwoo Lee, the leader of the GOM development team.
+3.	Modification and Collaboration
+  + Users may propose modifications or updates to the GOM. All proposed changes must be submitted to and approved by Dr. Jungwoo Lee for integration into the original version of the Software. Once approved, the updated version may be officially redistributed.
+  + Users shall not independently distribute modified or updated versions of the GOM.
+  + Users agree to participate in the GOM community through the following mechanisms:
+    + 1.	Reporting code bugs and issues.
+    + 2.	Sharing major modifications made to the code.
+    + 3.	Contributing to discussions on model deficiencies, needed improvements, additions, and successes.
+  + These mechanisms aim to benefit the entire GOM user community by facilitating the quick identification of issues, proposing solutions, and supporting the further development of the GOM source code and associated tools for processing, visualizing, and interpreting GOM model outputs.
+  + Users agree to acknowledge GOM in any publications resulting from its use and to refer to the model by its name, “GOM.”
+4.	Restrictions
+  + Redistribution of the GOM, whether in its original form or with modifications, is strictly prohibited without the explicit written permission of Dr. Jungwoo Lee.
+  + Users may not sublicense, rent, lease, or otherwise transfer rights to the GOM.
+5.	Contact Information 
+For questions, suggestions, or collaboration on updates, contact Dr. Jungwoo Lee:
+  + Email: leejung24@ecu.edu
+  + Personal Email: jungwoo33@gmail.com
+6.	Disclaimer 
+The GOM is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Original Developers be liable for any claims, damages, or other liabilities arising from the use of the GOM.
+By using the GOM, you acknowledge that you have read, understood, and agreed to the terms and conditions of this License Agreement.
+
+
 The {GOM} project can not be copied and/or distributed without the express
 permission of {Jungwoo Lee} <{jungwoo33@gmail.com}>.
