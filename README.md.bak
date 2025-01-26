@@ -17,17 +17,20 @@ This project has the following directory structure (e.g.,):
   + ./assets
     + This folder is nothing related to GOM model but to store the animation results
   + ./GOM_Rv1.0.0
-    + /Analytical_test
-    + /Projects/MB_test/2_baroclinic_test/
+    + ./Analytical_test
+      + `not yet included`
+    + ./Projects/MB_test/2_baroclinic_test/
       + ./input
       + ./output
       + ./`your executable must be located here`
-      + this is the Mobile Bay test case
+      + `Note: this is the Mobile Bay test case`
     + /source
       + /release/makefile
-        + this is the "makefile"
+        + `this is the "makefile"`
       + / *.f90
-        + these are the source codes
+        + `these are the source codes`
+Note: there are "place_holding.txt" in some folders, and this is nothing but to keep the folder structure since Github does not allow to keep an empty folder.
+        
 ## 5. Compiling and Executing the code:
 Read the user manual Chapter 5 for compiling and executing the code. It should be very easy.
 

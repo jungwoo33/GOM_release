@@ -29,6 +29,7 @@ This project has the following directory structure (e.g.,):
         + `this is the "makefile"`
       + / *.f90
         + `these are the source codes`
+
 Note: there are "place_holding.txt" in some folders, and this is nothing but to keep the folder structure since Github does not allow to keep an empty folder.
         
 ## 5. Compiling and Executing the code:
