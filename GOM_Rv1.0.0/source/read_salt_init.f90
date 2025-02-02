@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 !! 
 !! Read initial salinity at horizontally nodal and vertically each center of vertical layers.

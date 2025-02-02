@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 !! 
 !! Solve density using temperature and salinity at node, face, and cell from a simple linear equation

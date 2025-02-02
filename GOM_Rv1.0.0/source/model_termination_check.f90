@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 !! 
 !! This will check if maximum/minimum values satisfiy the given criteria.

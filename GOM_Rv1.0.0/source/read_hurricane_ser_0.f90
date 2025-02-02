@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 !! 
 !! This subroutine reads only first two data sets from hurricane_ser.inp, and

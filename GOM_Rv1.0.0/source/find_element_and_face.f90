@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee
 !! ===========================================================================! 
 !! GIVEN TWO ADJACENT NODES (NUMBERS), THIS ROUTINE DETERMINES
 !! THE CORRESPONDING FACE (OR SIDE) NUMBER AND ELEMENT NUMBER

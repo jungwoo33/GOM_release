@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 !! 
 !! This subroutine allocates variables (not all but some of them), 

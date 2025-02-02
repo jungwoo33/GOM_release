@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee
 !! ===========================================================================! 
 !!
 !! Convert simulation time to julian day  

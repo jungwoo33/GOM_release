@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee
 !! ===========================================================================! 
 !! 
 !! This will update vertical layer indices and wetting and drying

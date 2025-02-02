@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee & Jungwoo Lee
 !! ===========================================================================! 
 !! program to detect if two segments (1,2) and (3,4) have common points (i.e., intersection)
 !! assumption: the 4 pts are distinctive.

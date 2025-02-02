@@ -1,3 +1,6 @@
+!! ===========================================================================! 
+!! GOM is developed by Jungwoo Lee & Jun Lee
+!! ===========================================================================! 
 !*************************************************************************************************
 !*****                             turbulence closure schemes                                *****
 !*****  compute turbulence diffusivities vertical_eddy_viscosity, vertical_eddy_diffusivity, *****

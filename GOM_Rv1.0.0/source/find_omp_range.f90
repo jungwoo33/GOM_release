@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 subroutine find_omp_range(g_start,g_end,nthreads,irank,i_start,i_end)
 	implicit none

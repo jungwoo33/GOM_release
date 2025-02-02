@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 subroutine zto_sigma_cell_values(salt_sigma, temp_sigma, rho_sigma)
 	use mod_global_variables

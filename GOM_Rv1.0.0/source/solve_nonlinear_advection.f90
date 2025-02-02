@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee
 !! ===========================================================================! 
 !! 
 !! Solve the nonlinear advection term using ELM

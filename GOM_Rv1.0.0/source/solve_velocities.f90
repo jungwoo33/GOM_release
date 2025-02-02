@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee
 !! ===========================================================================! 
 !! 
 !! This is the second part of the solve momentum equation which solves face normal and tangential velocities (horizontal velocities), Eq(44)

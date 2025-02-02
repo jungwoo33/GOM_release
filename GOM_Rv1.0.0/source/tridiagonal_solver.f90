@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee
 !! ===========================================================================! 
 !! Tridiagonal matrix solver by thomas algorithm:
 !!		nmax  		: dimension of a etc in the driving routine.     

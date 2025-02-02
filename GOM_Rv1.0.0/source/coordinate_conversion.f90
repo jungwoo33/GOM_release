@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 !! This subroutine is based on "utm_geo.f90" & 
 !! Lat_Long_to_UTM_transformation.pdf

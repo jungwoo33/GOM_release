@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! ===========================================================================! 
 subroutine zto_sigma_node_values(u_sigma, v_sigma, w_sigma)
 	use mod_global_variables

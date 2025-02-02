@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jun Lee & Jungwoo Lee
 !!
 !! This is the ELM version of transport equation.
 !! Backtracking starts from cell center.

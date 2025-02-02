@@ -1,6 +1,5 @@
 !! ===========================================================================! 
 !! GOM is developed by Jungwoo Lee & Jun Lee
-!! Written by Jungwoo Lee
 !! 
 !! This will find open boundary salinity and temperature condition for transport.
 !! ===========================================================================!
