@@ -24,6 +24,8 @@ This project has the following directory structure (e.g.,):
         + `this is the "makefile"`
       + / *.f90
         + `these are the source codes`
+  + GOM_Manual_Rv1.0.0_draft_v1.pdf
+    + `this is the user manual`
 
 Note 1: there are "place_holding.txt" in some folders, and this is nothing but to keep the folder structure since Github does not allow to keep an empty folder.
 Note 2: one of the input files, "hurricane_ser.inp", in Projects/MB_test/2_baroclinic_test/input/, is included as a zip file since there is a file size limit in Githup. So, you should unzip it first.
